@@ -205,6 +205,12 @@ These possibilities require further investigation and should not be treated as e
 
 The trained Random Forest model is integrated into a Streamlit application.
 
+### Application Preview
+
+![LPBF Porosity Prediction Application](Images/app_screenshot.png)
+
+**Try the live application:** [LPBF Porosity Prediction](https://lpbf-porosity-prediction-nzegmuulkkbpjf6llxtc9cz.streamlit.app/)
+
 ### Features
 
 - Interactive input controls for laser power, scanning speed, and hatch spacing.
