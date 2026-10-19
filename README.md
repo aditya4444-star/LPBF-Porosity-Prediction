@@ -1,4 +1,7 @@
 # LPBF Porosity Prediction Using Machine Learning
+🚀 **Live Demo:** [Try the application](https://lpbf-porosity-prediction-nzegmuulkkbpjf6llxtc9cz.streamlit.app/)
+
+💻 **GitHub Repository:** [View source code](https://github.com/aditya4444-star/LPBF-Porosity-Prediction)
 
 ## Project Overview
 
